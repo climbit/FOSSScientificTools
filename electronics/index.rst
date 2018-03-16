@@ -4,6 +4,11 @@ Electronics
 Circuit Simulation
 ------------------------
 
-* qucs
+Quite Universal Circuit Simulator (Qucs)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   
+Website
+   http://qucs.sourceforge.net/
 
-
+Description
+   Qucs is an integrated circuit simulator which means you are able to setup a circuit with a graphical user interface (GUI) and simulate the large-signal, small-signal and noise behaviour of the circuit. After that simulation has finished you can view the simulation results on a presentation page or window.
