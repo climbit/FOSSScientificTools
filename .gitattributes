@@ -1,0 +1,21 @@
+# Text files
+## default
+* text=auto eol=lf
+
+## git
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+## documentation
+*.rst text eol=lf
+
+## python
+*.py text eol=lf
+
+## make
+Makefile text eol=lf
+makefile text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
