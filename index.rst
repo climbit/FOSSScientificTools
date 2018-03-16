@@ -7,7 +7,7 @@ FOS Scientific Tools
 ================================================
 
 This document provides a list of Free and Open Source Tools tailored to scientific and engineering usage for all fields.
-You are welcome to contribute. Each tool should have the website and a description.
+You are welcome to contribute. Each tool should have the website, purpose and a description as a descriptive list.
 Hardware tools are also welcome.
 
 
