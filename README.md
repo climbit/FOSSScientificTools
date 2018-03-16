@@ -1,2 +1,2 @@
-# FOSSScientificTools
-A list of FOSS scientific tools
+# FOSScientificTools
+A list of FOS scientific tools

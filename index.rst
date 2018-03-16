@@ -1,10 +1,10 @@
-.. FOSS Scientific Tools documentation master file, created by
-   sphinx-quickstart on Fri Mar 16 09:27:13 2018.
+.. FOS Scientific Tools documentation master file, created by
+   sphinx-quickstart on Fri Mar 16 09:41:13 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to FOSS Scientific Tools's documentation!
-=================================================
+Welcome to FOS Scientific Tools's documentation!
+================================================
 
 .. toctree::
    :maxdepth: 2
