@@ -3,8 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to FOS Scientific Tools's documentation!
+FOS Scientific Tools
 ================================================
+
+This document provides a list of Free and Open Source Tools tailored to scientific and engineering usage for all fields.
+
+
+Table Of Contents
+====================
 
 .. toctree::
    :maxdepth: 2
