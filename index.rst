@@ -8,7 +8,10 @@ Welcome to FOS Scientific Tools's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   
+   general/index
+   electronics/index
+   
 
 
 
