@@ -26,5 +26,7 @@ Table Of Contents
 Indices and tables
 ==================
 
+
+* :doc:`glossary`
 * :ref:`genindex`
 * :ref:`search`
